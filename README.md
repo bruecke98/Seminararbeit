@@ -11,3 +11,4 @@ Die Daten sind von https://de.finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC&
 Genutzte Packages: Tensorflow (Version 2.0.0), Numpy, Pandas, matplotlib.pyplot und scikit-learn.
 
 Die Pfadangaben, für die Daten und die Modells, muss geändert werden!
+Um aktuelle Vorhersagen zu generieren müssen die aktuellsten Daten des S&P500 heruntergeladen werden.
