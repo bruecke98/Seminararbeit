@@ -1,4 +1,6 @@
 # Seminararbeit
+Die Implementierung meiner Seminararbeit an der Julius-Maximilians Universität Würzburg. 
+
 Der Aktienmarkt ist ein wichtiger wirtschaftlicher Indikator. Das Ziel von Investoren ist es, an der Börse mehr Rendite zu erwirtschaften als eine entsprechende Benchmark.
 In dieser Arbeit wird ein Bereich der Finanzanalyse betrachtet, der in den letzten Jahren immer mehr an Bedeutung zugenommen hat- das Machine Learning. 
 Machine Learning oder maschinelles Lernen ist die künstliche Generierung von Wissen aus Erfahrung. Ein künstliches System, das anhand großer Datenmengen lernt und sich anpassen kann, ohne explizite Anweisungen zu befolgen. Es werden Algorithmen und statistische Modelle für die Analyse von Mustern in Daten verwendet und daraus Schlussfolgerungen gezogen.
