@@ -8,6 +8,7 @@ Heutzutage ist es sehr einfach in den Aktienmarkt zu investieren. Zum einen gibt
 Das Ziel der Arbeit ist es eine Strategie zu entwerfen, die eine bessere Rendite verspricht als die Rendite des jeweiligen Index.
 
 Die Daten sind von https://de.finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC&guccounter=1. 
+
 Genutzte Packages: Tensorflow (Version 2.0.0), Numpy, Pandas, matplotlib.pyplot und scikit-learn.
 
 Die Pfadangaben, für die Daten und die Modells, muss geändert werden!
